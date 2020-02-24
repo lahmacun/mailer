@@ -1,2 +1,4 @@
 /.idea/
 mailer
+/.env
+/**/.DS_Store
